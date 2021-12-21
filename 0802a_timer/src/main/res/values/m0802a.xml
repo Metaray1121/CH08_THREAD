@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0802a_ans01">選擇:</string>
+    <string name="m0802a_b001">確定</string>
+    <string name="m0802a_t002">年</string>
+    <string name="m0802a_t003">月</string>
+    <string name="m0802a_t004">日</string>
+    <string name="m0802a_t005">時</string>
+    <string name="m0802a_t006">分</string>
+    <string name="m0802a_t001">鬧鐘播放</string>
+    <string name="m0802a_timer">88:88:88</string>
+    <string name="n_yy">年</string>
+    <string name="n_mm">月</string>
+    <string name="m_dd">日</string>
+    <string name="d_hh">時</string>
+    <string name="d_mm">分</string>
+    <string name="m0802a_err">別鬧了,這樣的時間有意義嗎?請重新設定!</string>
+    <string name="m0802a_choose">你選擇:</string>
+    <string name="m0802a_alerm">鬧鐘剩餘</string>
+    <string name="m0802a_play">鬧鐘播放</string>
+</resources>

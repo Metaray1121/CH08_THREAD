@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0801_t001">你選擇的日期:</string>
+    <string name="m0801_b001">確定</string>
+    <string name="m0801_t002">年</string>
+    <string name="m0801_t003">月</string>
+    <string name="m0801_t004">日</string>
+    <string name="m0801_t005">時</string>
+    <string name="m0801_t006">分</string>
+</resources>
